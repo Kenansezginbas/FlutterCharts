@@ -1,6 +1,6 @@
-# flutter_charts_yt
+# Flutter Charts
 
-A new Flutter project.
+How Can I Use syncfusion package ?
 
 ## Getting Started
 
