@@ -4,7 +4,7 @@ How Can I Use syncfusion package ?
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Package : https://pub.dev/packages/syncfusion_flutter_charts
 
 A few resources to get you started if this is your first Flutter project:
 
